@@ -8,4 +8,6 @@ Currently, point cloud-based 3D detection methods performance tediously relies o
 
 Extensive experiments conducted on SUN RGB-D and ScanNetV2 datasets prove the effectiveness of BTM in both inductive and transductive semi-supervised 3D target detection. Finally, using only 50% labeled data and a 27% smaller model size, BTM achieves better performance than the state-of-the-art fully supervised approach. 
 
-https://raw.githubusercontent.com/b-xie/BTM/main/overviewa.png
+![Image text](https://raw.githubusercontent.com/b-xie/BTM/main/overviewa.png)
+
+![Image text](https://raw.githubusercontent.com/b-xie/BTM/main/overviewb.png)
